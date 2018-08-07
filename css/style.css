@@ -18,7 +18,8 @@ body {
 }
 
 footer {
-  text-align: right ;
+  text-align: right;
+  font-size: 12px;
 }
 
 /* Write all remaining styles here */
